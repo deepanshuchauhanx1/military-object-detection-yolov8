@@ -54,6 +54,7 @@ ID	Class Name
 9	trench
 10	military_aircraft
 11	military_warship
+
 ⚙️ Setup Instructions
 1. Install Dependencies
 
@@ -113,8 +114,5 @@ runs/detect/predict/labels/*.txt
 Each .txt file contains:
 
 class x_center y_center width height confidence
-
-📦 Export Model (Optional)
-yolo export model=best.pt format=onnx
 
 📈 Results
