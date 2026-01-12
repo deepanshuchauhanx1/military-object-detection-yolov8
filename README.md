@@ -26,7 +26,7 @@ project/
 │── README.md              # Project documentation
 
 
-Your dataset structure (stored in Google Drive):
+Dataset structure (stored in Google Drive):
 
 military_object_dataset/
 │── train/
@@ -65,7 +65,7 @@ Run this inside Google Colab:
 🚀 One-Cell Training Script (Used in This Project)
 from pathlib import Path
 
-# EDIT THIS → Path to your dataset folder in Google Drive
+# Path to your dataset folder in Google Drive
 ROOT = Path("/content/drive/MyDrive/military_object_dataset")
 
 # Create data.yaml automatically
