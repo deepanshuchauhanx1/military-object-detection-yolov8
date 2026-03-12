@@ -1,4 +1,20 @@
+# Military Object Detection – Hackathon Prototype
+
+This repository contains the initial prototype built during the IIT BHU Hackathon.
+
+The goal of the prototype was to experiment with object detection approaches for identifying military assets from aerial imagery.
+
+⚠️ This version is a rapid prototype developed under hackathon constraints.
+
+A full research-grade implementation with structured pipelines, experiment tracking, and deployment architecture is being developed in a new repository:
+
+➡️ **Military Object Detection AI (Full System)**
+
+Next Version:
+https://github.com/deepanshuchauhanx1/military-object-detection-ai
+
 # military-object-detection-yolov8
+
 Military Object Detection Using YOLOv8  A deep-learning project to detect 12 classes of military &amp; civilian assets using the YOLOv8 object detection model. This project was developed as part of the IIT BHU Hackathon challenge.
 📌 Project Overview
 
